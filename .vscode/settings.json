@@ -4,6 +4,8 @@
     "debug.console.fontSize": 17,
     "editor.fontSize": 17,
     "cSpell.words": [
+        "HMACSHA",
+        "hmac",
         "toastr"
     ]
 }

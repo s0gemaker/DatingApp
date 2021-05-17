@@ -23,7 +23,7 @@ export class AccountService {
           this.currentUserSource.next(user);
         }
       })
-    )
+    );
   }
 
   register(model: any) {
@@ -34,7 +34,7 @@ export class AccountService {
           this.currentUserSource.next(user);
         }
       })
-    )
+    );
   }
 
   setCurrentUser(user: User) {
